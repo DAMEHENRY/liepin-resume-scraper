@@ -4,7 +4,7 @@ A brief description of your project. What does it do? Who is it for?
 
 ## 介绍
 
-这里是项目的简要介绍。
+本项目旨在提供一个自动化的环境设置解决方案，主要通过Python脚本实现。它包含跨平台的设置指南（Mac和Windows），并管理所有必要的依赖项，以简化新环境的配置过程。
 
 ## 安装
 
